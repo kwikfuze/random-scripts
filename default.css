@@ -1,0 +1,5 @@
+.playedIndicator { background: #5dd000; }
+.headerCastButton { display: none; }
+.headerSyncButton { display: none; }
+.skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred {background:none; background-color:rgba(0, 0, 0, 0);}
+.skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred.noHomeButtonHeader {background:none; background-color:rgba(0, 0, 0, 0);}
